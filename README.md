@@ -1,5 +1,5 @@
 # nix-graphical-app-icon-guide
-How to have graphical app icons show up for packages installed with nix
+How to have graphical app icons show up for packages installed with nix. It works with GNOME but doesn't work with KDE. Let me know if there is a way to have it where you don't need to log out and log back in for the app icons to show up.
 
 ## Single User
 
