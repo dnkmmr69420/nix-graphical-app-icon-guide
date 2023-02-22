@@ -18,3 +18,7 @@ sudo tee /etc/profile.d/nix-app-icons.sh <<EOF
 XDG_DATA_DIRS="$HOME/.nix-profile/share:/nix/var/nix/profiles/default/share:$XDG_DATA_DIRS"
 EOF
 ```
+
+# My Other Guide
+
+Here is a guide for [installing nix with selinux](https://github.com/dnkmmr69420/nix-with-selinux)
