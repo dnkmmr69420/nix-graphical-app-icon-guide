@@ -19,6 +19,11 @@ XDG_DATA_DIRS="$HOME/.nix-profile/share:/nix/var/nix/profiles/default/share:$XDG
 EOF
 ```
 
+TODO:
+
+1. Make it so app icons are added without needing to log out and log back in
+2. Make it work with KDE
+
 # My Other Guide
 
 Here is a guide for [installing nix with selinux](https://github.com/dnkmmr69420/nix-with-selinux)
